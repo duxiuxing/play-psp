@@ -78,7 +78,7 @@
 
 ## 步骤 5：确认升级后的系统软件版本
 
-重启之后再去[查看主机信息](..\..\system-settings\system-information\README.md "不懂查看主机信息的点这里")，可以看到系统已经成功升级为 6.61 版本。
+重启之后再去[查看主机信息](../../system-settings/system-information/README.md "不懂查看主机信息的点这里")，可以看到系统已经成功升级为 6.61 版本。
 
 ![当前系统软件版本为 6.61](version-6.61.png "当前系统软件版本为 6.61")
 
