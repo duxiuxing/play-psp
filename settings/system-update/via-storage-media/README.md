@@ -10,7 +10,7 @@
 | --------- | --------- | ---------
 | 1 | [官方网站下载](http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP) | SONY Playstation 官网，可靠性最高
 | 2 | [百度网盘下载](https://pan.baidu.com/s/1qtt4ehPEzFX9osqqNJxlkg) | 提取码: tpex
-| 3 | [腾讯微云下载](https://share.weiyun.com/OpAWromN) | 作者本人的分享
+| 3 | [腾讯微云下载](https://share.weiyun.com/zonP9ZV0) | 在 6.61\ofw 文件夹下
 
 ## 步骤 2：拷贝 EBOOT.PBP 到 Memory Stick
 
