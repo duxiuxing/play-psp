@@ -1,6 +1,6 @@
 # 从存储设备升级
 
-下文将以最新的官方系统版本 6.61 为升级目标，说明如何从存储设备升级 PSP。
+下文将以最新的官方系统版本 6.61 为目标，说明如何从存储设备升级 PSP。
 
 ## 步骤 1：下载 6.61 官方固件
 
@@ -8,9 +8,9 @@
 
 | 序号 | 下载链接 | 备注
 | --------- | --------- | ---------
-| 1 | [官方网站下载](http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP) | SONY Playstation 官网，可靠性最高
-| 2 | [百度网盘下载](https://pan.baidu.com/s/1qtt4ehPEzFX9osqqNJxlkg) | 提取码: tpex
-| 3 | [腾讯微云下载](https://share.weiyun.com/zonP9ZV0) | 在 6.61\ofw 文件夹下
+| 1 | [官方网站](http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP) | SONY Playstation 官网，可靠性最高
+| 2 | [百度网盘](https://pan.baidu.com/s/1qtt4ehPEzFX9osqqNJxlkg) | 提取码: tpex
+| 3 | [腾讯微云](https://share.weiyun.com/dVIUv7gb) | 在 psp\6.61\ofw 文件夹下
 
 ## 步骤 2：拷贝 EBOOT.PBP 到 Memory Stick
 
@@ -84,4 +84,6 @@
 
 ## 步骤 6：删除 Memory Stick 上的 EBOOT.PBP
 
-步骤 2 中拷贝到 Memory Stick 上的 EBOOT.PBP 现在已经没用了，可以将 PSP 连接到电脑，删除掉它。
+步骤 2 中拷贝到 Memory Stick 上的 EBOOT.PBP 现在已经没用了，可以在 PSP 中删掉它：
+
+![删除官方固件对应的 EBOOT.PBP](delete.png "删除官方固件对应的 EBOOT.PBP")
